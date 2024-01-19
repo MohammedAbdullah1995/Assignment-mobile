@@ -1,0 +1,39 @@
+{
+    "register" : {
+        "selectCountry" : "Select country",
+        "signUp" : "Sign Up",
+        "title" : "Registration",
+        "labels" : {
+            "username" : "Username",
+            "email" : "Email",
+            "password" : "Password",
+            "country" : "Country",
+            "appLan" : "App Language"
+        },
+        "toast" : {
+            "success" : {
+                "title" : "Success",
+                "subtitle" : "User created Successfuly!"
+            },
+            "error" : {
+                "title" : "User creation failed!"
+            }
+        }
+    },
+    "validations" : {
+        "required" : "This field is required",
+        "email" : "Invalid email format",
+        "uae" : {
+            "username" : "Username must be alphanumarical and at least 5 characters long"
+        },
+        "in" : {
+            "username" : "Username must start with a letter and at least 6 characters long"
+        },
+        "eg" : {
+            "username" : "Username must start with 2 letters and at least contains a number"
+        },
+        "pk" : {
+            "username" : "Username must start with 3 letters and at least 7 characters long"
+        }
+    }
+}

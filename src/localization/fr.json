@@ -1,0 +1,39 @@
+{
+  "register": {
+    "selectCountry": "Sélectionnez le pays",
+    "signUp": "S'inscrire",
+    "title": "Inscription",
+    "labels": {
+      "username": "Nom d'utilisateur",
+      "email": "Email",
+      "password": "Mot de passe",
+      "country": "Pays",
+      "appLan": "Langue de l'application"
+    },
+    "toast": {
+      "success": {
+        "title": "Succès",
+        "subtitle": "Utilisateur créé avec succès !"
+      },
+      "error": {
+        "title": "Échec de la création de l'utilisateur !"
+      }
+    }
+  },
+  "validations": {
+    "required": "Ce champ est obligatoire",
+    "email": "Format d'email invalide",
+    "uae": {
+      "username": "Le nom d'utilisateur doit être alphanumérique et d'au moins 5 caractères"
+    },
+    "in": {
+      "username": "Le nom d'utilisateur doit commencer par une lettre et avoir au moins 6 caractères"
+    },
+    "eg": {
+      "username": "Le nom d'utilisateur doit commencer par 2 lettres et contenir au moins un chiffre"
+    },
+    "pk": {
+      "username": "Le nom d'utilisateur doit commencer par 3 lettres et avoir au moins 7 caractères"
+    }
+  }
+}

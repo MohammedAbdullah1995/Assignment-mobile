@@ -1,0 +1,39 @@
+{
+    "register": {
+      "selectCountry": "Land auswählen",
+      "signUp": "Registrieren",
+      "title": "Anmeldung",
+      "labels": {
+        "username": "Benutzername",
+        "email": "E-Mail",
+        "password": "Passwort",
+        "country": "Land",
+        "appLan": "App-Sprache"
+      },
+      "toast": {
+        "success": {
+          "title": "Erfolg",
+          "subtitle": "Benutzer erfolgreich erstellt!"
+        },
+        "error": {
+          "title": "Benutzererstellung fehlgeschlagen!"
+        }
+      }
+    },
+    "validations": {
+      "required": "Dieses Feld ist erforderlich",
+      "email": "Ungültiges E-Mail-Format",
+      "uae": {
+        "username": "Benutzername muss alphanumerisch sein und mindestens 5 Zeichen lang sein"
+      },
+      "in": {
+        "username": "Benutzername muss mit einem Buchstaben beginnen und mindestens 6 Zeichen lang sein"
+      },
+      "eg": {
+        "username": "Benutzername muss mit 2 Buchstaben beginnen und mindestens eine Zahl enthalten"
+      },
+      "pk": {
+        "username": "Benutzername muss mit 3 Buchstaben beginnen und mindestens 7 Zeichen lang sein"
+      }
+    }
+  }
